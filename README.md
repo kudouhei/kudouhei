@@ -23,9 +23,9 @@
 ⚡ &nbsp;**Full-Stack Dev**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React · Node.js · TypeScript at scale
 
-<br/>
+<hr/>
 
-🔭 &nbsp;Currently building: AI agents · LLM-powered apps · low-code platforms
+🔭 &nbsp;**Currently building**: AI agents · LLM-powered apps · low-code platforms
 
 </td>
 <td width="48%" valign="top">
