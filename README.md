@@ -23,16 +23,20 @@
 ⚡ &nbsp;**Full-Stack Dev**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React · Node.js · TypeScript at scale
 
+<br/>
+
+🔭 &nbsp;Currently building: AI agents · LLM-powered apps · low-code platforms
+
 </td>
 <td width="48%" valign="top">
 
-[![Top Languages](https://github-readme-stats-gray-eight-52.vercel.app/api/top-langs/?username=kudouhei&layout=compact&theme=default&hide_border=true&langs_count=6&custom_title=Top+Languages&card_width=280)](https://github.com/kudouhei)
+[![Top Languages](https://github-readme-stats-gray-eight-52.vercel.app/api/top-langs/?username=kudouhei&layout=compact&theme=default&hide_border=true&langs_count=6&custom_title=Top+Languages&card_width=280&cache_seconds=86400)](https://github.com/kudouhei)
 
 </td>
 </tr>
 </table>
 </div>
----
+
 
 ### Skills
 
