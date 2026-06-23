@@ -12,18 +12,21 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: kudouhei
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Prepare output directory
+        run: mkdir -p dist
 
       - name: Generate Top Languages SVG
         run: |
           curl -fSL \
             "https://github-readme-stats-gray-eight-52.vercel.app/api/top-langs/?username=kudouhei&layout=compact&theme=default&hide_border=true&langs_count=6&custom_title=Top+Languages&card_width=280" \
             -o dist/top-langs.svg
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: kudouhei
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
