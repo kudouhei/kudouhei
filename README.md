@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2000&color=1f2328&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+KudouHei+%F0%9F%91%8B;AI+%26+LLMs+Researcher;Data+Scientist;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2000&color=1f2328&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+KudouHei+%F0%9F%91%8B;Applied+AI+Engineer;AI+Assessment+%26+Systems;Software+Engineer)](https://git.io/typing-svg)
 
 <img src="./badges.svg" alt="Tech stack" />
 
