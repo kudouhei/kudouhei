@@ -7,38 +7,43 @@
 </div>
 
 ---
-<div align="center">
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="58%" valign="top">
 
 **ABOUT ME**
 
-🎯 &nbsp;**Applied AI Engineer**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LLM evaluation · reliability assessment · traceable workflows
+🎯 **Applied AI Engineer**<br/>
+<sub>LLM evaluation · reliability · traceable workflows</sub>
 
-🔍 &nbsp;**AI Assessment & Systems**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benchmarking · failure analysis · LLM agents · RAG
+<br/>
 
-📊 &nbsp;**Data & Analytics**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistical modelling · Python pipelines · experimentation
+🔍 **AI Assessment & Systems**<br/>
+<sub>Benchmarking · failure analysis · agents · RAG</sub>
 
-⚡ &nbsp;**Software Engineering**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React · Python · TypeScript · Azure · FastAPI
+<br/>
 
-<hr/>
+📊 **Data & Analytics**<br/>
+<sub>Statistical modelling · Python pipelines · experimentation</sub>
 
-🔭 &nbsp;**Currently focused on**: Evaluation tooling · RAG quality assessment · Responsible AI
+<br/>
+
+⚡ **Software Engineering**<br/>
+<sub>React · Python · TypeScript · Azure · FastAPI</sub>
+
+<br/>
+
+🔭 **Currently focused on**<br/>
+<sub>Evaluation tooling · RAG quality assessment · Responsible AI</sub>
 
 </td>
-<td width="48%" valign="top">
+<td width="42%" valign="middle" align="center">
 
 [![Top Languages](https://raw.githubusercontent.com/kudouhei/kudouhei/output/top-langs.svg)](https://github.com/kudouhei)
 
 </td>
 </tr>
 </table>
-</div>
 
 
 ### Skills
