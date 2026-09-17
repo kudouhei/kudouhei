@@ -14,18 +14,21 @@
 
 **ABOUT ME**
 
-🤖 &nbsp;**AI & LLMs Researcher**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LLM fine-tuning · AI agents · automated reasoning
+🎯 &nbsp;**Applied AI Engineer**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LLM evaluation · reliability assessment · traceable workflows
 
-🔬 &nbsp;**Data Scientist**
+🔍 &nbsp;**AI Assessment & Systems**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benchmarking · failure analysis · LLM agents · RAG
+
+📊 &nbsp;**Data & Analytics**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Statistical modelling · Python pipelines · experimentation
 
-⚡ &nbsp;**Full-Stack Dev**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React · Node.js · TypeScript at scale
+⚡ &nbsp;**Software Engineering**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React · Python · TypeScript · Azure · FastAPI
 
 <hr/>
 
-🔭 &nbsp;**Currently building**: AI agents · LLM-powered apps · low-code platforms
+🔭 &nbsp;**Currently focused on**: Evaluation tooling · RAG quality assessment · Responsible AI
 
 </td>
 <td width="48%" valign="top">
@@ -74,6 +77,8 @@
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
