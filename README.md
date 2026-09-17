@@ -7,48 +7,39 @@
 </div>
 
 ---
-<table>
-<tr>
-<td width="58%" valign="top">
 
-**ABOUT ME**
+### About Me
 
-🎯 **Applied AI Engineer**<br/>
-<sub>LLM evaluation · reliability · traceable workflows</sub>
+Applied AI engineer focused on **LLM evaluation**, **reliability assessment**, and **evidence-based AI workflows**.
 
-<br/>
+🎯 **Applied AI Engineer**  
+LLM evaluation · reliability · traceable workflows
 
-🔍 **AI Assessment & Systems**<br/>
-<sub>Benchmarking · failure analysis · agents · RAG</sub>
+🔍 **AI Assessment & Systems**  
+Benchmarking · failure analysis · agents · RAG
 
-<br/>
+📊 **Data & Analytics**  
+Statistical modelling · Python pipelines · experimentation
 
-📊 **Data & Analytics**<br/>
-<sub>Statistical modelling · Python pipelines · experimentation</sub>
+⚡ **Software Engineering**  
+React · Python · TypeScript · Azure · FastAPI
 
-<br/>
+🔭 **Currently focused on**  
+Evaluation tooling · RAG quality assessment · Responsible AI
 
-⚡ **Software Engineering**<br/>
-<sub>React · Python · TypeScript · Azure · FastAPI</sub>
+---
 
-<br/>
-
-🔭 **Currently focused on**<br/>
-<sub>Evaluation tooling · RAG quality assessment · Responsible AI</sub>
-
-</td>
-<td width="42%" valign="middle" align="center">
+<div align="center">
 
 [![Top Languages](https://raw.githubusercontent.com/kudouhei/kudouhei/output/top-langs.svg)](https://github.com/kudouhei)
 
-</td>
-</tr>
-</table>
+</div>
 
+---
 
 ### Skills
 
-🤖 &nbsp;**AI & LLMs**
+**AI & LLMs**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
@@ -56,7 +47,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-📊 &nbsp;**Data & ML**
+**Data & Analytics**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -67,7 +58,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-🌐 &nbsp;**Frontend**
+**Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -78,14 +69,14 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
-⚙️ &nbsp;**Backend & DevOps**
+**Backend & DevOps**
 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ---
 
